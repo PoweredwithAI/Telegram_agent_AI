@@ -1,0 +1,9 @@
+# Core
+python-telegram-bot==21.6
+groq>=0.9.0
+python-dotenv>=1.0.0
+
+# Dropbox resume loading (optional — comment out if not using Dropbox)
+dropbox>=12.0.0
+pdfplumber>=0.11.0
+python-docx>=1.1.0
